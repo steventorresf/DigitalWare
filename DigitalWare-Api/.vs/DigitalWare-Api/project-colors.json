@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a149b82-4d70-4b9d-8e38-beb0f9cf716b": {
+      "ProjectGuid": "8a149b82-4d70-4b9d-8e38-beb0f9cf716b",
+      "DisplayName": "DigitalWare-Api",
+      "ColorIndex": 0
+    },
+    "178cd19a-6129-4962-9f62-ee55f7ba3ae9": {
+      "ProjectGuid": "178cd19a-6129-4962-9f62-ee55f7ba3ae9",
+      "DisplayName": "DigitalWare-Api-Facade",
+      "ColorIndex": 1
+    },
+    "2c9f556a-6a37-45a5-aed1-32285d62a352": {
+      "ProjectGuid": "2c9f556a-6a37-45a5-aed1-32285d62a352",
+      "DisplayName": "DigitalWare-Api-Infrastructure",
+      "ColorIndex": 2
+    },
+    "2aa82dc4-2f50-42be-8fba-6e2be12ec876": {
+      "ProjectGuid": "2aa82dc4-2f50-42be-8fba-6e2be12ec876",
+      "DisplayName": "DigitalWare-Api-Entities",
+      "ColorIndex": 3
+    },
+    "99bd328e-24c2-443d-925a-fdbadadebf07": {
+      "ProjectGuid": "99bd328e-24c2-443d-925a-fdbadadebf07",
+      "DisplayName": "DigitalWare-Api-Dto",
+      "ColorIndex": 4
+    },
+    "9d320bbf-05ba-480e-9fd1-6c4b48009770": {
+      "ProjectGuid": "9d320bbf-05ba-480e-9fd1-6c4b48009770",
+      "DisplayName": "DigitalWare-Api-Test",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

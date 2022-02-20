@@ -1,0 +1,12 @@
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\bin\Debug\net6.0\DigitalWare-Api-Entities.deps.json
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\bin\Debug\net6.0\DigitalWare-Api-Entities.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\bin\Debug\net6.0\ref\DigitalWare-Api-Entities.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\bin\Debug\net6.0\DigitalWare-Api-Entities.pdb
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\obj\Debug\net6.0\DigitalWare-Api-Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\obj\Debug\net6.0\DigitalWare-Api-Entities.AssemblyInfoInputs.cache
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\obj\Debug\net6.0\DigitalWare-Api-Entities.AssemblyInfo.cs
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\obj\Debug\net6.0\DigitalWare-Api-Entities.csproj.CoreCompileInputs.cache
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\obj\Debug\net6.0\DigitalWare-Api-Entities.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\obj\Debug\net6.0\ref\DigitalWare-Api-Entities.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\obj\Debug\net6.0\DigitalWare-Api-Entities.pdb
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Entities\obj\Debug\net6.0\DigitalWare-Api-Entities.csproj.AssemblyReference.cache

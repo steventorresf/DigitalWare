@@ -1,0 +1,348 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api\\DigitalWare-Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\DigitalWare-Api-Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\DigitalWare-Api-Dto.csproj",
+        "projectName": "DigitalWare-Api-Dto",
+        "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\DigitalWare-Api-Dto.csproj",
+        "packagesPath": "C:\\Users\\Steven Torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steven Torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Entities\\DigitalWare-Api-Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Entities\\DigitalWare-Api-Entities.csproj",
+        "projectName": "DigitalWare-Api-Entities",
+        "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Entities\\DigitalWare-Api-Entities.csproj",
+        "packagesPath": "C:\\Users\\Steven Torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steven Torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Facade\\DigitalWare-Api-Facade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Facade\\DigitalWare-Api-Facade.csproj",
+        "projectName": "DigitalWare-Api-Facade",
+        "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Facade\\DigitalWare-Api-Facade.csproj",
+        "packagesPath": "C:\\Users\\Steven Torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Facade\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steven Torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\DigitalWare-Api-Dto.csproj": {
+                "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\DigitalWare-Api-Dto.csproj"
+              },
+              "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Infrastructure\\DigitalWare-Api-Infrastructure.csproj": {
+                "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Infrastructure\\DigitalWare-Api-Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Infrastructure\\DigitalWare-Api-Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Infrastructure\\DigitalWare-Api-Infrastructure.csproj",
+        "projectName": "DigitalWare-Api-Infrastructure",
+        "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Infrastructure\\DigitalWare-Api-Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Steven Torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steven Torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\DigitalWare-Api-Dto.csproj": {
+                "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\DigitalWare-Api-Dto.csproj"
+              },
+              "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Entities\\DigitalWare-Api-Entities.csproj": {
+                "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Entities\\DigitalWare-Api-Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api\\DigitalWare-Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api\\DigitalWare-Api.csproj",
+        "projectName": "DigitalWare-Api",
+        "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api\\DigitalWare-Api.csproj",
+        "packagesPath": "C:\\Users\\Steven Torres\\.nuget\\packages\\",
+        "outputPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Steven Torres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\DigitalWare-Api-Dto.csproj": {
+                "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Dto\\DigitalWare-Api-Dto.csproj"
+              },
+              "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Facade\\DigitalWare-Api-Facade.csproj": {
+                "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Facade\\DigitalWare-Api-Facade.csproj"
+              },
+              "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Infrastructure\\DigitalWare-Api-Infrastructure.csproj": {
+                "projectPath": "C:\\Repository\\DigitalWare-Api\\DigitalWare-Api-Infrastructure\\DigitalWare-Api-Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>DigitalWare_Api_Facade</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DigitalWare-Api-Dto\DigitalWare-Api-Dto.csproj" />
+    <ProjectReference Include="..\DigitalWare-Api-Infrastructure\DigitalWare-Api-Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

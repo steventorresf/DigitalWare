@@ -1,0 +1,17 @@
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\bin\Debug\net6.0\DigitalWare-Api-Infrastructure.deps.json
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\bin\Debug\net6.0\DigitalWare-Api-Infrastructure.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\bin\Debug\net6.0\ref\DigitalWare-Api-Infrastructure.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\bin\Debug\net6.0\DigitalWare-Api-Infrastructure.pdb
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\bin\Debug\net6.0\DigitalWare-Api-Dto.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\bin\Debug\net6.0\DigitalWare-Api-Entities.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\bin\Debug\net6.0\DigitalWare-Api-Dto.pdb
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\bin\Debug\net6.0\DigitalWare-Api-Entities.pdb
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\obj\Debug\net6.0\DigitalWare-Api-Infrastructure.csproj.AssemblyReference.cache
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\obj\Debug\net6.0\DigitalWare-Api-Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\obj\Debug\net6.0\DigitalWare-Api-Infrastructure.AssemblyInfoInputs.cache
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\obj\Debug\net6.0\DigitalWare-Api-Infrastructure.AssemblyInfo.cs
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\obj\Debug\net6.0\DigitalWare-Api-Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\obj\Debug\net6.0\DigitalWare-Api-Infrastructure.csproj.CopyComplete
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\obj\Debug\net6.0\DigitalWare-Api-Infrastructure.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\obj\Debug\net6.0\ref\DigitalWare-Api-Infrastructure.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Infrastructure\obj\Debug\net6.0\DigitalWare-Api-Infrastructure.pdb

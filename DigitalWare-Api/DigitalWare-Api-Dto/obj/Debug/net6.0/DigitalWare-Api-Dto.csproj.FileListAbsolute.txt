@@ -1,0 +1,12 @@
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\bin\Debug\net6.0\DigitalWare-Api-Dto.deps.json
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\bin\Debug\net6.0\DigitalWare-Api-Dto.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\bin\Debug\net6.0\ref\DigitalWare-Api-Dto.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\bin\Debug\net6.0\DigitalWare-Api-Dto.pdb
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\obj\Debug\net6.0\DigitalWare-Api-Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\obj\Debug\net6.0\DigitalWare-Api-Dto.AssemblyInfoInputs.cache
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\obj\Debug\net6.0\DigitalWare-Api-Dto.AssemblyInfo.cs
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\obj\Debug\net6.0\DigitalWare-Api-Dto.csproj.CoreCompileInputs.cache
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\obj\Debug\net6.0\DigitalWare-Api-Dto.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\obj\Debug\net6.0\ref\DigitalWare-Api-Dto.dll
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\obj\Debug\net6.0\DigitalWare-Api-Dto.pdb
+C:\Repository\DigitalWare-Api\DigitalWare-Api-Dto\obj\Debug\net6.0\DigitalWare-Api-Dto.csproj.AssemblyReference.cache
